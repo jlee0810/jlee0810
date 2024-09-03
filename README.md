@@ -11,7 +11,9 @@ I am currently an undergrad at UCLA majoring in Computer Science and minoring in
 
 This summer, I worked as a software engineer intern at Samsung Electronics under Samsung Research, contributing to the Tizen OS platform team. Previously, I worked as a Frontend/Mobile developer at LG. 
 
-At UCLA, I work with Prof. Rafail Ostrovsky and Prof. Sam Kumar on a multi party computation project. (Expected to submit IEEE S&P Nov 2024)
+At UCLA, I work with Prof. Rafail Ostrovsky and Prof. Sam Kumar on a multi party computation project. 
+
+(Expected to submit IEEE S&P Nov 2024)
 
 ## 📫 Contact Me on Social Media
 
