@@ -7,11 +7,11 @@
 
 Hi, my name is **Joonwon (Eric)** Lee. Welcome to my github. 
 
-I am currently an undergrad at UCLA majoring in Computer Science and minoring in Statistics & Data Science. I have a broad interest in computers, with a particular focus on systems software and blockchain. You can also check out what I have learned at UCLA in my personal website.
+I am currently an undergrad at UCLA majoring in Computer Science and minoring in Statistics & Data Science. I have a broad interest in computers, with a particular focus on systems software and cryptography (specifically blockchain). You can also check out what I have learned at UCLA in my personal website.
 
-This summer, I am working as a software engineer intern at Samsung Electronics under Samsung Research, contributing to the Tizen OS platform team. Previously, I worked as a Frontend/Mobile developer at LG. 
+This summer, I worked as a software engineer intern at Samsung Electronics under Samsung Research, contributing to the Tizen OS platform team. Previously, I worked as a Frontend/Mobile developer at LG. 
 
-At UCLA, I work with Prof. Rafail Ostrovsky and Prof. Sam Kumar on a multi party computation project (check out MPC Sky Repo). 
+At UCLA, I work with Prof. Rafail Ostrovsky and Prof. Sam Kumar on a multi party computation project. (Expected to submit IEEE S&P Nov 2024)
 
 ## 📫 Contact Me on Social Media
 
